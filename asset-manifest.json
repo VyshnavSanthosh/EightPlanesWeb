@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/EightPlanesWeb/static/css/main.1fb4a6ab.css",
+    "main.js": "/EightPlanesWeb/static/js/main.a2b2f140.js",
+    "static/js/453.d1b28062.chunk.js": "/EightPlanesWeb/static/js/453.d1b28062.chunk.js",
+    "static/media/training.png": "/EightPlanesWeb/static/media/training.5084fbed613bb15c7191.png",
+    "static/media/inauguration.png": "/EightPlanesWeb/static/media/inauguration.4a4e7fe15207db23f560.png",
+    "static/media/otherservices.png": "/EightPlanesWeb/static/media/otherservices.f47f5d2a3e5c19c9acf9.png",
+    "static/media/project_robotCleaning.png": "/EightPlanesWeb/static/media/project_robotCleaning.b228c41c99f567869887.png",
+    "static/media/otherservices2.png": "/EightPlanesWeb/static/media/otherservices2.f44e70cfd44e694a18f2.png",
+    "static/media/heroimg1.png": "/EightPlanesWeb/static/media/heroimg1.1404c48639969fe83078.png",
+    "static/media/winfo.png": "/EightPlanesWeb/static/media/winfo.7eac38d18cdbc15e5063.png",
+    "static/media/rover.png": "/EightPlanesWeb/static/media/rover.8dba89932b849b49c8b2.png",
+    "static/media/We Design.png": "/EightPlanesWeb/static/media/We Design.cd755678697c2c1f2d5f.png",
+    "static/media/x.png": "/EightPlanesWeb/static/media/x.5e44de56d2245f07d487.png",
+    "static/media/govtofIndia.png": "/EightPlanesWeb/static/media/govtofIndia.3b883037372dcbf8cb63.png",
+    "static/media/startupindia.png": "/EightPlanesWeb/static/media/startupindia.b901cfc33835cc1c2d4d.png",
+    "static/media/tbi.png": "/EightPlanesWeb/static/media/tbi.cced12aa7721e67856b8.png",
+    "static/media/deLead.png": "/EightPlanesWeb/static/media/deLead.949dcdb162faaa9b3d60.png",
+    "static/media/startupMission.png": "/EightPlanesWeb/static/media/startupMission.12d4a7c673daed55ce54.png",
+    "index.html": "/EightPlanesWeb/index.html",
+    "static/media/Icon.svg": "/EightPlanesWeb/static/media/Icon.5a784b295c003a1e1e3376ced71d1fe1.svg",
+    "main.1fb4a6ab.css.map": "/EightPlanesWeb/static/css/main.1fb4a6ab.css.map",
+    "main.a2b2f140.js.map": "/EightPlanesWeb/static/js/main.a2b2f140.js.map",
+    "453.d1b28062.chunk.js.map": "/EightPlanesWeb/static/js/453.d1b28062.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fb4a6ab.css",
+    "static/js/main.a2b2f140.js"
+  ]
+}
